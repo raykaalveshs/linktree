@@ -18,3 +18,5 @@
 Projeto LinkTree do Curso Técnico em Informática do Senac, usando HTML e CSS
 ## Autor
 Rayka Alves
+
+![]()<img width="441" height="848" alt="image" src="https://github.com/user-attachments/assets/5023fca6-8b1b-4429-aeec-f2f3e173cc8a" />
